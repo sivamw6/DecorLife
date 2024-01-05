@@ -1,6 +1,6 @@
 # DecorLife!
 
-[Website Image](/image/decor-life-five.vercel.app_.png "This is an example image")
+![Website Image](/image/decor-life-five.vercel.app_.png "This is an example image")
 
 ## Project Overview
 
